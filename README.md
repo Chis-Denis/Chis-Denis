@@ -23,7 +23,7 @@ I work mostly with **C#/.NET** on the backend and **Angular/Vue** on the fronten
 ## 💻 I Code With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,ts,dotnet,fastapi,angular,vue,nodejs,sqlite,git,docker,bash,cypress&perline=11" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,ts,dotnet,fastapi,angular,vue,nodejs,sqlite,git,docker,bash,cypress&perline=9" />
 </div>
 
 ---
@@ -31,7 +31,14 @@ I work mostly with **C#/.NET** on the backend and **Angular/Vue** on the fronten
 ## 🎮 I Play With
 <div align="center">
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="Unity" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator" />
+  <img src="https://cdn.simpleicons.org/staruml/333333" height="40" alt="StarUML" />
 </div>
+
 
 ---
 
