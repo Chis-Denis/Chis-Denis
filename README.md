@@ -23,7 +23,7 @@ I work mostly with **C#/.NET** on the backend and **Angular/Vue** on the fronten
 ## 💻 I Code With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,ts,dotnet,fastapi,angular,vue,nodejs,postgres,mysql,sqlite,git,docker,bash,cypress&perline=11" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,ts,dotnet,fastapi,angular,vue,nodejs,sqlite,git,docker,bash,cypress&perline=11" />
 </div>
 
 ---
