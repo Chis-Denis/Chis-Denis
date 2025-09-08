@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=.NET+%E2%80%A2+Angular+%E2%80%A2+FastAPI+%E2%80%A2+Vue;Full-stack+developer+in+progress;Clean+code+%7C+Pipelines+%7C+Production-ready+foundations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=.NET+%E2%80%A2+Angular+%E2%80%A2+FastAPI+%E2%80%A2+Vue;Digital+Craftsman +in+progress;Clean+code+%7C+Pipelines+%7C+Production-ready+foundations" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@ I work mostly with **C#/.NET** on the backend and **Angular/Vue** on the fronten
 
 - 💡 I like understanding how pieces fit together and writing code that’s easy to reason about.
 - 🚀 I’m aiming to grow into a strong **full-stack developer** and also help with the **early foundation of projects**—setting up frameworks, pipelines, environments, and the overall structure that teams use to ship to production.
-- 🎯 I care about code quality, maintainability, and leaving things better than I found them.
+- 🎯 Always curious and improving, I like to balance writing code with understanding the bigger picture of how software is planned and delivered.  
 
 ---
 
