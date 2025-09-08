@@ -5,14 +5,12 @@
 
 ## 🌟 About Me
 
-I'm Denis, a software engineer who loves building efficient and user-friendly applications.  
-I focus mainly on **C#/.NET**, and I also enjoy working with modern frontend frameworks like **Angular** and **Vue** to create powerful full-stack solutions.  
-On the backend side, I’ve been exploring **FastAPI** with Python for lightweight APIs.  
+I'm Denis, a software engineer passionate about building clean and scalable software.  
+My main focus is on **C#/.NET** for backend and **Angular/Vue** for frontend, while also exploring **FastAPI** for lightweight services.  
 
-- 💡 I enjoy solving challenging problems and continuously learning new technologies.  
-- 🚀 Always experimenting with ways to improve performance and code quality.  
-- 🎯 My goal is to become a well-rounded **full-stack developer** who can bring ideas from concept to production.  
-- 🎲 Outside of coding, I like exploring tech communities and keeping up with the latest in software engineering.  
+- 💡 I enjoy learning how things work under the hood and creating solutions that are both useful and reliable.  
+- 🚀 My future goal is to grow as a **full-stack developer** and also get involved in shaping the **foundations of projects** — things like setting up frameworks, pipelines, and production-ready environments before the actual development begins.  
+- 🎯 Always curious and improving, I like to balance writing code with understanding the bigger picture of how software is planned and delivered.    
 
 ---
 
@@ -20,34 +18,29 @@ On the backend side, I’ve been exploring **FastAPI** with Python for lightweig
 
 <div align="center">
 
-### 🔹 Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" />
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
 
-### 🔹 Backend & Frameworks
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".net logo" />
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-<img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
+<br><br>
 
-### 🔹 Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-
-### 🔹 Tools & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
-<img src="https://cdn.simpleicons.org/qt/41CD52" height="40" alt="qt logo" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" />
+<img src="https://cdn.simpleicons.org/qt/41CD52" height="40" />
 
 </div>
 
