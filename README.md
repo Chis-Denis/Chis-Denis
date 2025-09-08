@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Denis</h1>
-<h3 align="center">A passionate Software Engineer from Romania 🇷🇴</h3>
+<h3 align="center">A passionate Student from Cluj-Napoca 🇷🇴</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
