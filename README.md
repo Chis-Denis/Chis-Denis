@@ -31,11 +31,11 @@ I work mostly with **C#/.NET** on the backend and **Angular/Vue** on the fronten
 ## 🎮 I Play With
 <div align="center">
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="50" alt="Unity" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator" />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="Blender" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="Illustrator" />
 </div>
 
 
