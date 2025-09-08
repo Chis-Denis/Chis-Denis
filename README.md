@@ -30,7 +30,7 @@ I work mostly with **C#/.NET** on the backend and **Angular/Vue** on the fronten
 
 ## 🎮 I Play With
 <div align="center">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="Unity" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="50" alt="Unity" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" />
