@@ -14,9 +14,9 @@
 I'm Denis, a software engineer who enjoys turning ideas into clean, reliable software.  
 I work mostly with **C#/.NET** on the backend and **Angular/Vue** on the frontend, and I build lightweight services with **FastAPI** when it fits.
 
-- 💡 I like understanding how pieces fit together and writing code that’s easy to reason about.
-- 🚀 I’m aiming to grow into a strong **full-stack developer** and also help with the **early foundation of projects**—setting up frameworks, pipelines, environments, and the overall structure that teams use to ship to production.
-- 🎯 Always curious and improving, I like to balance writing code with understanding the bigger picture of how software is planned and delivered.  
+- 🔍 I love digging into how things work and writing code that feels elegant and easy to maintain.  
+- 🚀 My goal is to grow into a strong **full-stack developer** and also help with the **early foundation of projects** — setting up frameworks, pipelines, and environments that keep teams moving fast and smooth.  
+- 🌱 Always curious and improving, I try to balance writing code with understanding the bigger picture of how software is planned and delivered.  
 
 ---
 
