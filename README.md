@@ -41,15 +41,6 @@ I work mostly with **C#/.NET** on the backend and **Angular/Vue** on the fronten
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chis-Denis&show_icons=true&theme=dark&cache_seconds=86400" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chis-Denis&layout=compact&langs_count=10&theme=dark&cache_seconds=86400" height="150" />
-</div>
-
----
-
 <div align="center">
   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chis-Denis.Chis-Denis&left_color=black&right_color=blue)
