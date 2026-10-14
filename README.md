@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Chisu</h1>
-<h3 align="center">A passionate student from Cluj-Napoca 🇷🇴</h3>
+<h3 align="center">A self proclaimed Ai-Wizard from Cluj-Napoca 🇷🇴</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
