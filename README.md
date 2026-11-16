@@ -21,7 +21,6 @@ class Chisu(AIEngineer):
     builds = ["RAG", "LLM apps", "the APIs behind them"]
     cares_about = ["AI governance", "test-first code"]
     toolbox = ["Docker", "GitLab", "Azure DevOps", "Langfuse"]
-    background = ["competitive programming", "2 years teaching programming"]
     speaks = ["Romanian", "English", "a bit of German"]
     next_stop = "AI DevOps"
 
