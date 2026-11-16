@@ -9,7 +9,9 @@
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
+### 🌟 About Me
+
+---
 
 ```python
 class Chisu(AIEngineer):
@@ -29,7 +31,9 @@ class Chisu(AIEngineer):
 
 ---
 
-<h2 align="center">🚀 Things I've Built</h2>
+### 🚀 Things I've Built
+
+---
 
 - **[CalorieTrack](https://github.com/Chis-Denis/Bachelor-Thesis)**, my bachelor thesis. A Flutter app for nutrition tracking and restaurant ordering with two AI features. Meal suggestions can never break a user's allergy rules, because the filters run in code before the model sees the menu. A forensic check reads EXIF and C2PA data to spot AI-generated complaint photos. Flutter, SQLite and the OpenAI API.
 - **[Speech-to-Text Medical System](https://github.com/Chis-Denis/Speech-to-Text)**, a team project. Doctors dictate their notes in Romanian, Deepgram transcribes the audio and a HuggingFace model fills in the right fields on the medical form. FastAPI and Vue 3.
@@ -39,7 +43,9 @@ class Chisu(AIEngineer):
 
 ---
 
-<h2 align="center">💻 I Code With</h2>
+### 💻 I Code With
+
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,gitlab,git,bash,sqlite,cs,dotnet,ts,js,vue,angular,flutter,cypress&perline=8" alt="Python, FastAPI, Docker, GitLab, Git, Bash, SQLite, C#, .NET, TypeScript, JavaScript, Vue, Angular, Flutter, Cypress" />
@@ -47,7 +53,9 @@ class Chisu(AIEngineer):
 
 ---
 
-<h2 align="center">🎮 I Play With</h2>
+### 🎮 I Play With
+
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity,ps,pr,blender,figma,ai" alt="Unity, Photoshop, Premiere Pro, Blender, Figma, Illustrator" />
