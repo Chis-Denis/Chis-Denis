@@ -9,7 +9,7 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 
 ---
 
@@ -30,7 +30,7 @@ class Chisu(AIEngineer):
 
 ---
 
-### 🚀 Things I've Built
+### Things I've Built
 
 ---
 
@@ -42,7 +42,7 @@ class Chisu(AIEngineer):
 
 ---
 
-### 💻 I Code With
+### I Code With
 
 ---
 
@@ -52,7 +52,7 @@ class Chisu(AIEngineer):
 
 ---
 
-### 🎮 I Play With
+### I Play With
 
 ---
 
