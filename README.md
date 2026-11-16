@@ -1,48 +1,38 @@
-<h1 align="center">Hey 👋, I'm Chisu</h1>
-<h3 align="center">A self proclaimed Ai-Wizard from Cluj-Napoca 🇷🇴</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=.NET+%E2%80%A2+Python+%E2%80%A2+Angular+%E2%80%A2+Vue;Digital+Craftsman" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Hey 👋, I'm Denis (Chisu)</h1>
+<h3 align="center">A self-proclaimed AI wizard from Cluj-Napoca 🇷🇴</h3>
 
 ---
 
 ## 🌟 About Me
 
-I'm Denis, a software engineer who enjoys turning ideas into clean, reliable software.  
-I work mostly with **C#/.NET** on the backend and **Angular/Vue** on the frontend, and I build lightweight services with **FastAPI** when it fits.
+I'm a software engineer who works mostly with **C#/.NET** on the backend and **Angular/Vue** on the frontend. I build smaller services with **FastAPI** when it fits.
 
-- 🔍 I love digging into how things work and writing code that feels elegant and easy to maintain.  
-- 🚀 My goal is to grow into a strong **full-stack developer** and also help with the **early foundation of projects** — setting up frameworks, pipelines, and environments that keep teams moving fast and smooth.  
-- 🌱 Always curious and improving, I try to balance writing code with understanding the bigger picture of how software is planned and delivered.  
+Most of what I have built lately puts a language model inside a real app: an interviewer that adapts its questions, a dictation tool that fills in medical forms, a meal recommender that respects allergies and budgets.
+
+I want to grow into a strong full-stack developer, and I like the early part of a project: setting up the framework, the pipeline and the environments the team will work in.
+
+---
+
+## 🚀 Things I've Built
+
+- **[CalorieTrack](https://github.com/Chis-Denis/Bachelor-Thesis)**, my bachelor thesis. A Flutter app that combines nutrition tracking, restaurant ordering and AI meal recommendations, with the data kept on the device.
+- **[Speech-to-Text Medical System](https://github.com/Chis-Denis/Speech-to-Text)**, a team project. Doctors dictate their notes in Romanian and the app fills in the right fields on the medical form. FastAPI, Vue 3, Deepgram and HuggingFace.
+- **[AI Interviewer](https://github.com/Chis-Denis/Ai-Interviewer)**. Runs an interview on any topic, adapts each question to the previous answer and scores the candidate at the end. FastAPI, Vue 3, TypeScript and the OpenAI API.
+- **[Voting System](https://github.com/Chis-Denis/Voting-System)**. An online voting system for Romanian national elections, with party and candidate management. ASP.NET Core 8.
+- **[Musify](https://github.com/Chis-Denis/Musify)**. A music streaming platform with login, playlists and an admin area. .NET 8, Angular 19 and Cypress tests.
 
 ---
 
 ## 💻 I Code With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,ts,dotnet,fastapi,angular,vue,sqlite,git,docker,bash,cypress&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,ts,js,angular,vue,flutter,sqlite,docker,git,bash,cypress&perline=7" alt="C#, .NET, Python, FastAPI, TypeScript, JavaScript, Angular, Vue, Flutter, SQLite, Docker, Git, Bash, Cypress" />
 </div>
 
 ---
 
 ## 🎮 I Play With
-<div align="center">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="50" alt="Unity" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="Premiere Pro" />
-  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="Blender" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="Illustrator" />
-</div>
-
-
----
 
 <div align="center">
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chis-Denis.Chis-Denis&left_color=black&right_color=blue)
-
+  <img src="https://skillicons.dev/icons?i=unity,ps,pr,blender,figma,ai" alt="Unity, Photoshop, Premiere Pro, Blender, Figma, Illustrator" />
 </div>
