@@ -1,19 +1,26 @@
 <h1 align="center">Hey 👋, I'm Denis (Chisu)</h1>
 <h3 align="center">Python AI engineer from Cluj-Napoca 🇷🇴</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=RAG+%E2%80%A2+LLM+apps+%E2%80%A2+AI+Governance;Python+%2B+FastAPI;Next+stop%3A+AI+DevOps" alt="RAG, LLM apps, AI Governance. Python and FastAPI. Next stop: AI DevOps." />
+</p>
+
 ---
 
 ## 🌟 About Me
 
-I'm an AI engineer who works mostly in **Python**. I build applications around language models and the **FastAPI** services that put them in front of users.
+```python
+class Chisu(AIEngineer):
+    home = "Cluj-Napoca"
+    speaks = ["Python", "FastAPI", "C#/.NET", "Vue", "Angular"]
+    builds = ["RAG", "LLM apps", "the APIs behind them"]
+    cares_about = ["AI governance", "test-first code"]
+    toolbox = ["Docker", "GitLab", "Langfuse"]
+    next_stop = "AI DevOps"
 
-Lately my work has moved toward **RAG** and the databases behind it, and toward **AI governance**: keeping what a model is allowed to do under control.
-
-Around that I work with **Docker**, **GitLab** and **Langfuse**, and I write my code test-first.
-
-Next I want to move toward the DevOps side of AI, where the job is getting these systems deployed, monitored and kept running.
-
-I can also carry a project end to end, with **C#/.NET** on the backend and **Angular** or **Vue** on the frontend.
+    def off_the_clock(self):
+        return ["Unity", "Blender", "Photoshop"]
+```
 
 ---
 
