@@ -9,6 +9,8 @@ I'm an AI engineer who works mostly in **Python**. I build applications around l
 
 Lately my work has moved toward **RAG** and the databases behind it, and toward **AI governance**: keeping what a model is allowed to do under control.
 
+Around that I work with **Docker**, **GitLab** and **Langfuse**, and I write my code test-first.
+
 Next I want to move toward the DevOps side of AI, where the job is getting these systems deployed, monitored and kept running.
 
 I can also carry a project end to end, with **C#/.NET** on the backend and **Angular** or **Vue** on the frontend.
@@ -28,7 +30,7 @@ I can also carry a project end to end, with **C#/.NET** on the backend and **Ang
 ## 💻 I Code With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,bash,sqlite,cs,dotnet,ts,js,vue,angular,flutter,cypress&perline=7" alt="Python, FastAPI, Docker, Git, Bash, SQLite, C#, .NET, TypeScript, JavaScript, Vue, Angular, Flutter, Cypress" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,gitlab,git,bash,sqlite,cs,dotnet,ts,js,vue,angular,flutter,cypress&perline=8" alt="Python, FastAPI, Docker, GitLab, Git, Bash, SQLite, C#, .NET, TypeScript, JavaScript, Vue, Angular, Flutter, Cypress" />
 </div>
 
 ---
