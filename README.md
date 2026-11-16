@@ -25,7 +25,7 @@ class Chisu(AIEngineer):
     next_stop = "AI DevOps"
 
     def off_the_clock(self):
-        return ["playing games", "building games"]
+        return ["Unity", "Photoshop", "playing games", "building games"]
 ```
 
 ---
