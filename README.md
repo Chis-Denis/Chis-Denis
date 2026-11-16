@@ -14,10 +14,13 @@
 ```python
 class Chisu(AIEngineer):
     home = "Cluj-Napoca"
-    speaks = ["Python", "FastAPI", "C#/.NET", "Vue", "Angular"]
+    degree = "Computer Science @ Babeș-Bolyai University"
+    stack = ["Python", "FastAPI", "C#/.NET", "Vue", "Angular"]
     builds = ["RAG", "LLM apps", "the APIs behind them"]
     cares_about = ["AI governance", "test-first code"]
-    toolbox = ["Docker", "GitLab", "Langfuse"]
+    toolbox = ["Docker", "GitLab", "Azure DevOps", "Langfuse"]
+    background = ["competitive programming", "2 years teaching programming"]
+    speaks = ["Romanian", "English", "a bit of German"]
     next_stop = "AI DevOps"
 
     def off_the_clock(self):
@@ -28,7 +31,7 @@ class Chisu(AIEngineer):
 
 ## 🚀 Things I've Built
 
-- **[CalorieTrack](https://github.com/Chis-Denis/Bachelor-Thesis)**, my bachelor thesis. A Flutter app that combines nutrition tracking, restaurant ordering and AI meal recommendations. Allergy, diet and budget rules are applied in code before the model sees the menu, and its answer is checked against the list of allowed items. Flutter, SQLite and the OpenAI API.
+- **[CalorieTrack](https://github.com/Chis-Denis/Bachelor-Thesis)**, my bachelor thesis. A Flutter app for nutrition tracking and restaurant ordering with two AI features. Meal suggestions can never break a user's allergy rules, because the filters run in code before the model sees the menu. A forensic check reads EXIF and C2PA data to spot AI-generated complaint photos. Flutter, SQLite and the OpenAI API.
 - **[Speech-to-Text Medical System](https://github.com/Chis-Denis/Speech-to-Text)**, a team project. Doctors dictate their notes in Romanian, Deepgram transcribes the audio and a HuggingFace model fills in the right fields on the medical form. FastAPI and Vue 3.
 - **[AI Interviewer](https://github.com/Chis-Denis/Ai-Interviewer)**. Runs an interview on any topic, adapts each question to the previous answer and scores the candidate at the end. FastAPI, SQLAlchemy, Vue 3, TypeScript and the OpenAI API.
 - **[Voting System](https://github.com/Chis-Denis/Voting-System)**. An online voting system for Romanian national elections, with party and candidate management. ASP.NET Core 8.
