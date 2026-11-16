@@ -1,8 +1,10 @@
-<h1 align="center">Hey 👋, I'm Denis (Chisu)</h1>
-<h3 align="center">Python AI engineer from Cluj-Napoca 🇷🇴</h3>
+<h1 align="center">Hey 👋, I'm Chisu</h1>
+<h3 align="center">A self proclaimed Ai-Wizard from Cluj-Napoca 🇷🇴</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=RAG+%E2%80%A2+LLM+apps+%E2%80%A2+AI+Governance;Python+%2B+FastAPI;Next+stop%3A+AI+DevOps" alt="RAG, LLM apps, AI Governance. Python and FastAPI. Next stop: AI DevOps." />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=.NET+%E2%80%A2+Python+%E2%80%A2+Angular+%E2%80%A2+Vue;Digital+Craftsman" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
